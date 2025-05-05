@@ -1,0 +1,17 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+build/
+develop-eggs/
+dist/
+eggs/
+*.egg-info/
+.env
+*.sqlite3
+*.log
+.zappa/
+zappa_settings.json
+
